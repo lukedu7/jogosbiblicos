@@ -1,0 +1,151 @@
+/* album.css */
+
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    min-height: 100vh;
+    background-image: url('images/imagem-fundojpg.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.quiz-header {
+    background-color: rgba(255, 255, 255, 0.7);
+    padding: 20px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    text-align: center;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+    width: 90%;
+    max-width: 600px;
+}
+
+h1 {
+    color: #333;
+    font-size: 2.5em;
+    margin-bottom: 10px;
+}
+
+#levelInfo, #progressInfo {
+    font-size: 1.2em;
+    color: #555;
+}
+
+.container {
+    width: 90%;
+    max-width: 700px;
+    text-align: center;
+    background-color: rgba(255, 255, 255, 0.7);
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+}
+
+.question {
+    font-size: 1.5em;
+    margin: 20px 0;
+    color: #333;
+}
+
+.alternatives {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.alternatives button {
+    background-color: white;
+    color: #333;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 10px 20px;
+    cursor: pointer;
+    font-size: 1em;
+    margin: 10px 0;
+    transition: background-color 0.3s, transform 0.2s;
+    width: 80%; /* Ajuste para largura */
+}
+
+.alternatives button:hover {
+    background-color: #f0f0f0b7;
+    transform: translateY(-2px);
+}
+
+.alternatives button.correct {
+    background-color: green; /* Verde para a resposta correta */
+    color: white; /* Texto em branco */
+}
+
+.alternatives button.incorrect {
+    background-color: red;
+    color: white;
+}
+
+.alternatives button.selected {
+    border: 2px solid #c5c8cc; /* Borda azul para a alternativa selecionada */
+    box-shadow: 0 0 5px rgba(0, 123, 255, 0.5); /* Sombra para destaque */
+}
+
+.styled-button {
+    background-color: #28a745;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    cursor: pointer;
+    font-size: 1em;
+    transition: background-color 0.3s;
+}
+
+.styled-button:hover {
+    background-color: #218838;
+}
+
+.message {
+    font-size: 1.2em;
+    margin-top: 20px;
+    text-align: center;
+}
+
+#backToAlbumButton {
+    position: fixed; /* Fixa o botão na tela */
+    top: 20px; /* Distância do topo */
+    right: 20px; /* Distância da direita */
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #007bff; /* Cor de fundo */
+    color: white; /* Cor do texto */
+    border: none; /* Sem bordas */
+    border-radius: 5px; /* Bordas arredondadas */
+    cursor: pointer; /* Cursor de ponteiro */
+}
+
+.completed {
+    background-color: green; /* Cor de fundo para livros concluídos */
+    color: white; /* Cor do texto em branco */
+}
+
+.book-button-image {
+    width: 100px; /* Ajuste o tamanho conforme necessário */
+    height: auto; /* Mantém a proporção da imagem */
+    cursor: pointer; /* Muda o cursor para indicar que é clicável */
+    border: none; /* Remove borda padrão do botão */
+    margin: 10px; /* Espaçamento entre os botões */
+    transition: transform 0.2s; /* Efeito de hover */
+}
+
+.book-button-image:hover {
+    transform: scale(1.05); /* Aumenta a imagem ao passar o mouse */
+}
+
+.album-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px; /* Espaçamento entre os itens */
+}
