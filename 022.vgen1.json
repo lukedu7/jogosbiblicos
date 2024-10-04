@@ -1,0 +1,556 @@
+[
+    {
+        "pergunta": "No princípio, Deus criou",
+        "alternativas": [
+            "os céus e a terra",
+            "o homem e a mulher",
+            "os animais e as plantas",
+            "o sol e a lua"
+        ],
+        "correta": "os céus e a terra",
+        "referencia": "Gênesis 1:1"
+    },
+    {
+        "pergunta": "A terra era sem forma e vazia;",
+        "alternativas": [
+            "trevas cobriam a face do abismo",
+            "e Deus viu que era bom",
+            "e o homem a cultivava",
+            "e os animais a habitavam"
+        ],
+        "correta": "trevas cobriam a face do abismo",
+        "referencia": "Gênesis 1:2"
+    },
+    {
+        "pergunta": "Disse Deus:",
+        "alternativas": [
+            "'Haja luz', e houve luz",
+            "'Haja vida', e houve vida",
+            "'Haja água', e houve água",
+            "'Haja terra', e houve terra"
+        ],
+        "correta": "'Haja luz', e houve luz",
+        "referencia": "Gênesis 1:3"
+    },
+    {
+        "pergunta": "Deus viu que a luz era boa",
+        "alternativas": [
+            "e separou a luz das trevas",
+            "e criou o sol e a lua",
+            "e fez o dia e a noite",
+            "e abençoou a criação"
+        ],
+        "correta": "e separou a luz das trevas",
+        "referencia": "Gênesis 1:4"
+    },
+    {
+        "pergunta": "Deus chamou à luz",
+        "alternativas": [
+            "dia, e às trevas chamou noite",
+            "sol, e às trevas chamou lua",
+            "manhã, e às trevas chamou tarde",
+            "claridade, e às trevas chamou escuridão"
+        ],
+        "correta": "dia, e às trevas chamou noite",
+        "referencia": "Gênesis 1:5"
+    },
+    {
+        "pergunta": "Disse também Deus: 'Haja um firmamento",
+        "alternativas": [
+            "entre as águas para separar águas de águas'",
+            "no céu para iluminar a terra'",
+            "na terra para sustentar a vida'",
+            "no mar para abrigar os peixes'"
+        ],
+        "correta": "entre as águas para separar águas de águas'",
+        "referencia": "Gênesis 1:6"
+    },
+    {
+        "pergunta": "Disse Deus: 'Ajuntem-se num só lugar as águas",
+        "alternativas": [
+            "que estão debaixo do céu, e apareça a parte seca'",
+            "e formem os mares e os rios'",
+            "para que os peixes possam nadar'",
+            "e cubram toda a face da terra'"
+        ],
+        "correta": "que estão debaixo do céu, e apareça a parte seca'",
+        "referencia": "Gênesis 1:9"
+    },
+    {
+        "pergunta": "E disse Deus: 'Cubra-se a terra de vegetação:",
+        "alternativas": [
+            "plantas que deem sementes e árvores cujos frutos produzam sementes de acordo com as suas espécies'",
+            "ervas e arbustos de todos os tipos'",
+            "flores coloridas e grama verde'",
+            "árvores frutíferas e plantas comestíveis'"
+        ],
+        "correta": "plantas que deem sementes e árvores cujos frutos produzam sementes de acordo com as suas espécies'",
+        "referencia": "Gênesis 1:11"
+    },
+    {
+        "pergunta": "Disse Deus: 'Haja luminares no firmamento do céu",
+        "alternativas": [
+            "para separar o dia da noite. Sirvam eles de sinais para marcar estações, dias e anos",
+            "para iluminar a terra durante o dia e a noite",
+            "para guiar os animais e os homens em seus caminhos",
+            "para mostrar a glória de Deus em toda a criação"
+        ],
+        "correta": "para separar o dia da noite. Sirvam eles de sinais para marcar estações, dias e anos",
+        "referencia": "Gênesis 1:14"
+    },
+    {
+        "pergunta": "Disse também Deus: 'Encham-se as águas de seres vivos,",
+        "alternativas": [
+            "e voem as aves sobre a terra, sob o firmamento do céu'",
+            "e multipliquem-se os peixes em todos os mares'",
+            "e surjam criaturas de todos os tipos nos oceanos'",
+            "e nadem os grandes monstros marinhos nas profundezas'"
+        ],
+        "correta": "e voem as aves sobre a terra, sob o firmamento do céu'",
+        "referencia": "Gênesis 1:20"
+    },
+    {
+        "pergunta": "E Deus criou os grandes animais aquáticos",
+        "alternativas": [
+            "e os seres vivos que se movem na água, de acordo com as suas espécies",
+            "e os colocou nos mares e rios de toda a terra",
+            "e viu que eram bons e os abençoou",
+            "e ordenou que se multiplicassem em abundância"
+        ],
+        "correta": "e os seres vivos que se movem na água, de acordo com as suas espécies",
+        "referencia": "Gênesis 1:21"
+    },
+    {
+        "pergunta": "Então disse Deus: 'Façamos o homem",
+        "alternativas": [
+            "à nossa imagem, conforme a nossa semelhança'",
+            "do pó da terra e sopro divino'",
+            "para governar sobre toda a criação'",
+            "como a coroa da criação'"
+        ],
+        "correta": "à nossa imagem, conforme a nossa semelhança'",
+        "referencia": "Gênesis 1:26"
+    },
+    {
+        "pergunta": "Criou Deus o homem à sua imagem,",
+        "alternativas": [
+            "à imagem de Deus o criou; homem e mulher os criou",
+            "e o colocou no jardim do Éden",
+            "e lhe deu domínio sobre todas as criaturas",
+            "e o abençoou com vida eterna"
+        ],
+        "correta": "à imagem de Deus o criou; homem e mulher os criou",
+        "referencia": "Gênesis 1:27"
+    },
+    {
+        "pergunta": "Deus os abençoou, e lhes disse:",
+        "alternativas": [
+            "'Sejam férteis e multipliquem-se! Encham e subjuguem a terra!'",
+            "'Cuidem da criação e vivam em paz com todas as criaturas'",
+            "'Comam de todas as árvores do jardim, exceto uma'",
+            "'Nomeiem todos os animais e dominem sobre eles'"
+        ],
+        "correta": "'Sejam férteis e multipliquem-se! Encham e subjuguem a terra!'",
+        "referencia": "Gênesis 1:28"
+    },
+    {
+        "pergunta": "Disse Deus: 'Eis que lhes dou todas as plantas",
+        "alternativas": [
+            "que nascem em toda a terra e produzem sementes, e todas as árvores que dão frutos com sementes'",
+            "do jardim para que as cultivem e cuidem delas'",
+            "como alimento, exceto a árvore do conhecimento do bem e do mal'",
+            "e ervas para que as usem como remédio e alimento'"
+        ],
+        "correta": "que nascem em toda a terra e produzem sementes, e todas as árvores que dão frutos com sementes'",
+        "referencia": "Gênesis 1:29"
+    },
+    {
+        "pergunta": "E assim foi. Deus viu tudo o que havia feito,",
+        "alternativas": [
+            "e tudo havia ficado muito bom",
+            "e descansou no sétimo dia",
+            "e abençoou toda a criação",
+            "e colocou o homem no jardim"
+        ],
+        "correta": "e tudo havia ficado muito bom",
+        "referencia": "Gênesis 1:31"
+    },
+    {
+        "pergunta": "No sétimo dia Deus já havia concluído a obra que realizara,",
+        "alternativas": [
+            "e nesse dia descansou",
+            "e criou o homem à sua imagem",
+            "e plantou um jardim no Éden",
+            "e viu que tudo era bom"
+        ],
+        "correta": "e nesse dia descansou",
+        "referencia": "Gênesis 2:2"
+    },
+    {
+        "pergunta": "Abençoou Deus o sétimo dia",
+        "alternativas": [
+            "e o santificou, porque nele descansou de toda a obra que realizara na criação",
+            "e criou o homem para cuidar do jardim",
+            "e estabeleceu o dia de descanso para toda a humanidade",
+            "e ordenou que o homem também descansasse neste dia"
+        ],
+        "correta": "e o santificou, porque nele descansou de toda a obra que realizara na criação",
+        "referencia": "Gênesis 2:3"
+    },
+    {
+        "pergunta": "O Senhor Deus formou o homem do pó da terra",
+        "alternativas": [
+            "e soprou em suas narinas o fôlego de vida, e o homem se tornou um ser vivente",
+            "e o colocou no jardim do Éden para cultivá-lo",
+            "e lhe deu domínio sobre todos os animais",
+            "e criou para ele uma companheira"
+        ],
+        "correta": "e soprou em suas narinas o fôlego de vida, e o homem se tornou um ser vivente",
+        "referencia": "Gênesis 2:7"
+    },
+    {
+        "pergunta": "O Senhor Deus fez nascer do solo todo tipo de árvores",
+        "alternativas": [
+            "agradáveis aos olhos e boas para alimento",
+            "e colocou o homem no jardim para cuidar delas",
+            "e proibiu o homem de comer de uma delas",
+            "e disse ao homem para dar nomes a todas elas"
+        ],
+        "correta": "agradáveis aos olhos e boas para alimento",
+        "referencia": "Gênesis 2:9"
+    }
+    ,
+        {
+            "pergunta": "No princípio Deus criou os céus",
+            "alternativas": [
+                "e a terra.",
+                "e todas as estrelas.",
+                "e o universo.",
+                "e o firmamento."
+            ],
+            "correta": "e a terra.",
+            "referencia": "Gênesis 1:1"
+        },
+        {
+            "pergunta": "Criou Deus o homem à sua imagem, à imagem de Deus o criou;",
+            "alternativas": [
+                "homem e mulher os criou.",
+                "à sua semelhança.",
+                "com forma e espírito.",
+                "à sua própria imagem."
+            ],
+            "correta": "homem e mulher os criou.",
+            "referencia": "Gênesis 1:27"
+        },
+        {
+            "pergunta": "Ora, o Senhor Deus tinha plantado um jardim no Éden, para os lados do leste,",
+            "alternativas": [
+                "e ali colocou o homem que formara.",
+                "onde o homem foi posto.",
+                "e o habitou com o homem.",
+                "onde ele residiria."
+            ],
+            "correta": "e ali colocou o homem que formara.",
+            "referencia": "Gênesis 2:8"
+        },
+        {
+            "pergunta": "mas não coma da árvore do conhecimento do bem e do mal,",
+            "alternativas": [
+                "porque no dia em que dela comer, certamente você morrerá.",
+                "pois será condenado à morte.",
+                "pois a morte o alcançará.",
+                "pois perderá sua vida."
+            ],
+            "correta": "porque no dia em que dela comer, certamente você morrerá.",
+            "referencia": "Gênesis 2:17"
+        },
+        {
+            "pergunta": "Com a costela que havia tirado do homem, o Senhor Deus fez uma mulher",
+            "alternativas": [
+                "e a levou até ele.",
+                "e entregou-a ao homem.",
+                "e apresentou ao homem.",
+                "e uniu-a ao homem."
+            ],
+            "correta": "e a levou até ele.",
+            "referencia": "Gênesis 2:22"
+        },
+        {
+            "pergunta": "Quando a mulher viu que a árvore parecia agradável ao paladar, era atraente aos olhos",
+            "alternativas": [
+                "e, além disso, desejável para dela se obter discernimento, tomou do seu fruto, comeu-o e o deu a seu marido, que comeu também.",
+                "e desejável para adquirir sabedoria, pegou o fruto, comeu e deu ao seu marido.",
+                "e também queria obter conhecimento, tomou do fruto e ofereceu ao marido.",
+                "e viu que era bom para entender, comeu e entregou ao seu marido."
+            ],
+            "correta": "e, além disso, desejável para dela se obter discernimento, tomou do seu fruto, comeu-o e o deu a seu marido, que comeu também.",
+            "referencia": "Gênesis 3:6"
+        },
+        {
+            "pergunta": "À mulher, ele declarou: 'Multiplicarei grandemente o seu sofrimento na gravidez; com sofrimento você dará à luz filhos.",
+            "alternativas": [
+                "Seu desejo será para o seu marido, e ele a dominará.'",
+                "Você será submissa ao seu marido.'",
+                "Seu marido a governará.'",
+                "Ele a liderará.'"
+            ],
+            "correta": "Seu desejo será para o seu marido, e ele a dominará.'",
+            "referencia": "Gênesis 3:16"
+        },
+        {
+            "pergunta": "Por isso o Senhor Deus o mandou embora do jardim do Éden",
+            "alternativas": [
+                "para cultivar o solo do qual fora tirado.",
+                "para trabalhar a terra da qual veio.",
+                "para arar o solo de sua origem.",
+                "para viver do solo."
+            ],
+            "correta": "para cultivar o solo do qual fora tirado.",
+            "referencia": "Gênesis 3:23"
+        },
+        {
+            "pergunta": "Disse, porém, Caim a seu irmão Abel: 'Vamos para o campo.'",
+            "alternativas": [
+                "Quando estavam lá, Caim atacou seu irmão Abel e o matou.",
+                "E ali, Caim o assassinou.",
+                "E então o matou.",
+                "E Caim se levantou contra ele e o matou."
+            ],
+            "correta": "Quando estavam lá, Caim atacou seu irmão Abel e o matou.",
+            "referencia": "Gênesis 4:8"
+        },
+        {
+            "pergunta": "Também a Sete nasceu um filho, a quem deu o nome de Enos.",
+            "alternativas": [
+                "Nessa época começou-se a invocar o nome do Senhor.",
+                "E foi quando se invocou o Senhor.",
+                "Foi então que chamaram pelo Senhor.",
+                "Então começaram a clamar pelo Senhor."
+            ],
+            "correta": "Nessa época começou-se a invocar o nome do Senhor.",
+            "referencia": "Gênesis 4:26"
+        },
+        {
+            "pergunta": "Viveu ao todo 930 anos",
+            "alternativas": [
+                "e morreu.",
+                "e então faleceu.",
+                "e expirou.",
+                "e descansou."
+            ],
+            "correta": "e morreu.",
+            "referencia": "Gênesis 5:5"
+        },
+        {
+            "pergunta": "O Senhor viu que a perversidade do homem tinha aumentado na terra",
+            "alternativas": [
+                "e que toda a inclinação dos pensamentos do seu coração era sempre e somente para o mal.",
+                "e que o coração do homem era mau continuamente.",
+                "e que a humanidade estava corrompida.",
+                "e que a maldade prevalecia."
+            ],
+            "correta": "e que toda a inclinação dos pensamentos do seu coração era sempre e somente para o mal.",
+            "referencia": "Gênesis 6:5"
+        },
+        {
+            "pergunta": "Disse o Senhor: 'Farei desaparecer da face da terra o homem que criei,",
+            "alternativas": [
+                "os homens e também os grandes animais e os pequenos e as aves do céu. Arrependo-me de havê-los feito.'",
+                "assim como as criaturas e os pássaros. Lamento tê-los feito.'",
+                "bem como todos os seres vivos. Sinto muito por tê-los feito.'",
+                "incluindo os animais e as aves. Sinto muito por isso.'"
+            ],
+            "correta": "os homens e também os grandes animais e os pequenos e as aves do céu. Arrependo-me de havê-los feito.'",
+            "referencia": "Gênesis 6:7"
+        },
+        {
+            "pergunta": "A Noé, porém,",
+            "alternativas": [
+                "o Senhor mostrou benevolência.",
+                "Deus foi misericordioso.",
+                "o Senhor foi bondoso.",
+                "o Senhor deu favor."
+            ],
+            "correta": "o Senhor mostrou benevolência.",
+            "referencia": "Gênesis 6:8"
+        },
+        {
+            "pergunta": "Você, porém, fará uma arca de madeira de cipreste;",
+            "alternativas": [
+                "divida-a em compartimentos e revista-a de piche por dentro e por fora.",
+                "e cubra-a completamente com piche.",
+                "e faça repartições nela.",
+                "e reforce-a com piche."
+            ],
+            "correta": "divida-a em compartimentos e revista-a de piche por dentro e por fora.",
+            "referencia": "Gênesis 6:14"
+        }
+    ,
+    
+        {
+            "pergunta": "E a chuva caiu sobre a terra",
+            "alternativas": [
+                "quarenta dias e quarenta noites.",
+                "por um mês e dez dias.",
+                "por muitos dias e noites.",
+                "sem parar por quarenta dias."
+            ],
+            "correta": "quarenta dias e quarenta noites.",
+            "referencia": "Gênesis 7:12"
+        },
+        {
+            "pergunta": "Estabeleço uma aliança com vocês: Nunca mais será ceifada nenhuma forma de vida pelas águas de um dilúvio;",
+            "alternativas": [
+                "nunca mais haverá dilúvio para destruir a terra.",
+                "nenhuma enchente destruirá a vida.",
+                "não haverá outra inundação na terra.",
+                "nunca mais as águas trarão destruição."
+            ],
+            "correta": "nunca mais haverá dilúvio para destruir a terra.",
+            "referencia": "Gênesis 9:11"
+        },
+        {
+            "pergunta": "Por isso foi chamada Babel, porque ali o Senhor confundiu a língua de todo o mundo.",
+            "alternativas": [
+                "Dali o Senhor os espalhou por toda a terra.",
+                "E assim o Senhor os dispersou.",
+                "Então eles se separaram por toda parte.",
+                "Foi de lá que foram espalhados."
+            ],
+            "correta": "Dali o Senhor os espalhou por toda a terra.",
+            "referencia": "Gênesis 11:9"
+        },
+        {
+            "pergunta": "Então o Senhor disse a Abrão: 'Saia da sua terra, do meio dos seus parentes",
+            "alternativas": [
+                "e da casa de seu pai, e vá para a terra que eu lhe mostrarei.'",
+                "e do convívio da sua família.'",
+                "e deixe a casa de seu pai.'",
+                "e parta para a terra que eu indicarei.'"
+            ],
+            "correta": "e da casa de seu pai, e vá para a terra que eu lhe mostrarei.'",
+            "referencia": "Gênesis 12:1"
+        },
+        {
+            "pergunta": "O Senhor apareceu a Abrão e disse: 'À sua descendência darei esta terra.'",
+            "alternativas": [
+                "Abrão construiu ali um altar dedicado ao Senhor, que lhe havia aparecido.",
+                "E Abrão levantou ali um altar ao Senhor.",
+                "Então Abrão ofereceu sacrifícios ao Senhor.",
+                "E ali, Abrão adorou ao Senhor."
+            ],
+            "correta": "Abrão construiu ali um altar dedicado ao Senhor, que lhe havia aparecido.",
+            "referencia": "Gênesis 12:7"
+        },
+        {
+            "pergunta": "Abrão creu no Senhor,",
+            "alternativas": [
+                "e isso lhe foi creditado como justiça.",
+                "e isso lhe trouxe bênçãos.",
+                "e o Senhor o honrou.",
+                "e Deus o abençoou."
+            ],
+            "correta": "e isso lhe foi creditado como justiça.",
+            "referencia": "Gênesis 15:6"
+        },
+        {
+            "pergunta": "Você está grávida e terá um filho, e lhe dará o nome de Ismael,",
+            "alternativas": [
+                "porque o Senhor a ouviu em seu sofrimento.",
+                "pois Deus ouviu seu clamor.",
+                "pois o Senhor lhe prestou atenção.",
+                "porque Deus viu sua aflição."
+            ],
+            "correta": "porque o Senhor a ouviu em seu sofrimento.",
+            "referencia": "Gênesis 16:11"
+        },
+        {
+            "pergunta": "Não será mais chamado Abrão;",
+            "alternativas": [
+                "seu nome será Abraão, porque eu o constituí pai de muitas nações.",
+                "seu novo nome será Abraão, pois será pai de nações.",
+                "agora será Abraão, o pai de muitos.",
+                "pois agora é Abraão, o líder de nações."
+            ],
+            "correta": "seu nome será Abraão, porque eu o constituí pai de muitas nações.",
+            "referencia": "Gênesis 17:5"
+        },
+        {
+            "pergunta": "Então o Senhor fez chover enxofre e fogo da parte do Senhor,",
+            "alternativas": [
+                "desde os céus, sobre Sodoma e Gomorra.",
+                "diretamente sobre aquelas cidades.",
+                "consumindo completamente o lugar.",
+                "destruindo tudo o que havia."
+            ],
+            "correta": "desde os céus, sobre Sodoma e Gomorra.",
+            "referencia": "Gênesis 19:24"
+        },
+        {
+            "pergunta": "Abraão deu o nome de Isaque",
+            "alternativas": [
+                "ao filho que Sara lhe dera.",
+                "ao menino que nasceu.",
+                "ao filho de sua esposa.",
+                "ao filho que esperaram."
+            ],
+            "correta": "ao filho que Sara lhe dera.",
+            "referencia": "Gênesis 21:3"
+        },
+        {
+            "pergunta": "Então disse Deus: 'Tome seu filho, seu único filho, Isaque, a quem você ama,",
+            "alternativas": [
+                "e vá para a região de Moriá. Sacrifique-o ali como holocausto num dos montes que lhe indicarei.'",
+                "e ofereça-o em sacrifício no monte que lhe mostrarei.'",
+                "e faça dele uma oferta no lugar que eu apontar.'",
+                "e suba o monte para sacrificá-lo.'"
+            ],
+            "correta": "e vá para a região de Moriá. Sacrifique-o ali como holocausto num dos montes que lhe indicarei.'",
+            "referencia": "Gênesis 22:2"
+        },
+        {
+            "pergunta": "Que Deus lhe conceda do orvalho dos céus e da fertilidade da terra",
+            "alternativas": [
+                "e fartura de cereal e de vinho.",
+                "e abundância de bênçãos.",
+                "e riqueza e prosperidade.",
+                "e a plenitude de seus dias."
+            ],
+            "correta": "e fartura de cereal e de vinho.",
+            "referencia": "Gênesis 27:28"
+        },
+        {
+            "pergunta": "E viu uma escada apoiada na terra, com o topo alcançando o céu,",
+            "alternativas": [
+                "e os anjos de Deus subiam e desciam por ela.",
+                "e anjos iam e vinham por ela.",
+                "e seres celestiais passavam por ali.",
+                "e o caminho ao céu estava claro."
+            ],
+            "correta": "e os anjos de Deus subiam e desciam por ela.",
+            "referencia": "Gênesis 28:12"
+        },
+        {
+            "pergunta": "Quando os mercadores ismaelitas de Midiã se aproximaram, seus irmãos tiraram José do poço",
+            "alternativas": [
+                "e o venderam por vinte peças de prata aos ismaelitas, que o levaram para o Egito.",
+                "e o entregaram por moedas aos viajantes.",
+                "e o venderam a comerciantes por um valor.",
+                "e trocaram por prata com os estrangeiros."
+            ],
+            "correta": "e o venderam por vinte peças de prata aos ismaelitas, que o levaram para o Egito.",
+            "referencia": "Gênesis 37:28"
+        },
+        {
+            "pergunta": "Vocês planejaram o mal contra mim,",
+            "alternativas": [
+                "mas Deus o tornou em bem para que hoje fosse preservada a vida de muitos.",
+                "mas o Senhor transformou em bênção.",
+                "mas o plano divino era outro.",
+                "mas Deus transformou em vitória."
+            ],
+            "correta": "mas Deus o tornou em bem para que hoje fosse preservada a vida de muitos.",
+            "referencia": "Gênesis 50:20"
+        }
+    ]
+    
