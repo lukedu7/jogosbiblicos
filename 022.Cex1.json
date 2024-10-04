@@ -1,0 +1,112 @@
+[
+    {
+        "pergunta": "Quem foi o líder que Deus escolheu para libertar os israelitas do Egito?",
+        "alternativas": [
+            "Abraão",
+            "Moisés",
+            "Josué",
+            "Davi"
+        ],
+        "correta": "Moisés",
+        "referencia": "Êxodo 3:10"
+    },
+    {
+        "pergunta": "Qual era o sinal que Deus deu a Moisés para provar que ele era enviado?",
+        "alternativas": [
+            "Uma serpente",
+            "Um fogo ardente",
+            "Um arco-íris",
+            "Uma nuvem"
+        ],
+        "correta": "Um fogo ardente",
+        "referencia": "Êxodo 3:2"
+    },
+    {
+        "pergunta": "Qual foi a primeira praga que Deus enviou ao Egito?",
+        "alternativas": [
+            "As rãs",
+            "O sangue",
+            "Os piolhos",
+            "As moscas"
+        ],
+        "correta": "O sangue",
+        "referencia": "Êxodo 7:14-20"
+    },
+    {
+        "pergunta": "O que os israelitas deveriam fazer com o sangue do cordeiro na Páscoa?",
+        "alternativas": [
+            "Beber",
+            "Passar nas portas",
+            "Queimar",
+            "Enterrar"
+        ],
+        "correta": "Passar nas portas",
+        "referencia": "Êxodo 12:7"
+    },
+    {
+        "pergunta": "Qual era o nome do faraó que se opôs a Moisés?",
+        "alternativas": [
+            "Ramsés",
+            "Tutancâmon",
+            "Cleópatra",
+            "Seti"
+        ],
+        "correta": "Ramsés",
+        "referencia": "Êxodo 1:11"
+    },
+    {
+        "pergunta": "O que aconteceu quando Moisés levantou sua vara sobre o Mar Vermelho?",
+        "alternativas": [
+            "O mar se abriu",
+            "O mar se acalmou",
+            "O mar se encheu de peixes",
+            "O mar se tornou doce"
+        ],
+        "correta": "O mar se abriu",
+        "referencia": "Êxodo 14:21"
+    },
+    {
+        "pergunta": "Qual alimento Deus deu aos israelitas no deserto?",
+        "alternativas": [
+            "Pão",
+            "Maná",
+            "Carne",
+            "Frutas"
+        ],
+        "correta": "Maná",
+        "referencia": "Êxodo 16:15"
+    },
+    {
+        "pergunta": "Qual montanha Moisés subiu para receber as tábuas da lei?",
+        "alternativas": [
+            "Monte Sinai",
+            "Monte Ararat",
+            "Monte Tabor",
+            "Monte Olimpo"
+        ],
+        "correta": "Monte Sinai",
+        "referencia": "Êxodo 19:20"
+    },
+    {
+        "pergunta": "Quantos mandamentos Deus deu a Moisés?",
+        "alternativas": [
+            "Cinco",
+            "Dez",
+            "Quinze",
+            "Vinte"
+        ],
+        "correta": "Dez",
+        "referencia": "Êxodo 20:1-17"
+    },
+    {
+        "pergunta": "O que os israelitas fizeram enquanto Moisés estava no monte Sinai?",
+        "alternativas": [
+            "Construíram um bezerro de ouro",
+            "Oraram",
+            "Fugiram",
+            "Comeram maná"
+        ],
+        "correta": "Construíram um bezerro de ouro",
+        "referencia": "Êxodo 32:1"
+    }
+]

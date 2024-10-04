@@ -1,0 +1,255 @@
+[
+    {
+        "pergunta": "O que Deus criou no primeiro dia?",
+        "alternativas": [
+            "A terra e os mares",
+            "A luz e as trevas",
+            "Os animais e as plantas",
+            "O homem e a mulher"
+        ],
+        "correta": "A luz e as trevas",
+        "referencia": "Gênesis 1:3-5"
+    },
+    {
+        "pergunta": "Qual foi a primeira coisa que Deus criou?",
+        "alternativas": [
+            "O homem",
+            "A luz",
+            "Os céus",
+            "As plantas"
+        ],
+        "correta": "A luz",
+        "referencia": "Gênesis 1:3"
+    },
+    {
+        "pergunta": "O que Deus criou no sexto dia?",
+        "alternativas": [
+            "Os peixes",
+            "Os animais terrestres e o homem",
+            "As aves",
+            "As estrelas"
+        ],
+        "correta": "Os animais terrestres e o homem",
+        "referencia": "Gênesis 1:24-26"
+    },
+    {
+        "pergunta": "Quem foram os primeiros seres humanos criados por Deus?",
+        "alternativas": [
+            "Adão e Eva",
+            "Noé e sua esposa",
+            "Abraão e Sara",
+            "Isaque e Rebeca"
+        ],
+        "correta": "Adão e Eva",
+        "referencia": "Gênesis 2:22"
+    },
+    {
+        "pergunta": "Qual fruto Deus proibiu Adão e Eva de comer?",
+        "alternativas": [
+            "Fruto da videira",
+            "Fruto da macieira",
+            "Fruto do conhecimento do bem e do mal",
+            "Fruto da pereira"
+        ],
+        "correta": "Fruto do conhecimento do bem e do mal",
+        "referencia": "Gênesis 2:17"
+    },
+    {
+        "pergunta": "Quem tentou Eva a comer do fruto proibido?",
+        "alternativas": [
+            "Um anjo",
+            "Um leão",
+            "Uma serpente",
+            "Um pássaro"
+        ],
+        "correta": "Uma serpente",
+        "referencia": "Gênesis 3:1"
+    },
+    {
+        "pergunta": "O que aconteceu com Adão e Eva após comerem do fruto?",
+        "alternativas": [
+            "Eles se tornaram sábios",
+            "Eles foram expostos",
+            "Eles foram expulsos do Éden",
+            "Eles se tornaram imortais"
+        ],
+        "correta": "Eles foram expulsos do Éden",
+        "referencia": "Gênesis 3:23-24"
+    },
+    {
+        "pergunta": "Quem foi o filho de Adão e Eva que matou seu irmão?",
+        "alternativas": [
+            "Sete",
+            "Caim",
+            "Abel",
+            "Noé"
+        ],
+        "correta": "Caim",
+        "referencia": "Gênesis 4:8"
+    },
+    {
+        "pergunta": "Qual foi o motivo do dilúvio enviado por Deus?",
+        "alternativas": [
+            "A desobediência de Noé",
+            "A maldade dos homens",
+            "A construção da Torre de Babel",
+            "A fome na terra"
+        ],
+        "correta": "A maldade dos homens",
+        "referencia": "Gênesis 6:5"
+    },
+    {
+        "pergunta": "Que sinal Deus deu a Noé após o dilúvio?",
+        "alternativas": [
+            "Uma pomba",
+            "Um arco-íris",
+            "Uma estrela",
+            "Um sol"
+        ],
+        "correta": "Um arco-íris",
+        "referencia": "Gênesis 9:13"
+    },
+    {
+        "pergunta": "O que os homens tentaram construir em Babel?",
+        "alternativas": [
+            "Uma cidade",
+            "Uma arca",
+            "Uma torre",
+            "Um templo"
+        ],
+        "correta": "Uma torre",
+        "referencia": "Gênesis 11:4"
+    },
+    {
+        "pergunta": "Qual foi a consequência da tentativa de construir a Torre de Babel?",
+        "alternativas": [
+            "Deus os abençoou",
+            "Deus confundiu suas línguas",
+            "Eles conseguiram construir a torre",
+            "Eles se tornaram imortais"
+        ],
+        "correta": "Deus confundiu suas línguas",
+        "referencia": "Gênesis 11:7"
+    },
+    {
+        "pergunta": "Quem foi chamado por Deus para ser o pai de uma grande nação?",
+        "alternativas": [
+            "Isaque",
+            "Noé",
+            "Abraão",
+            "Jacó"
+        ],
+        "correta": "Abraão",
+        "referencia": "Gênesis 12:2"
+    },
+    {
+        "pergunta": "Qual era o nome da esposa de Abraão?",
+        "alternativas": [
+            "Sara",
+            "Rebeca",
+            "Raquel",
+            "Miriam"
+        ],
+        "correta": "Sara",
+        "referencia": "Gênesis 11:29"
+    },
+    {
+        "pergunta": "Qual foi a promessa que Deus fez a Abraão?",
+        "alternativas": [
+            "Ele teria muitos filhos",
+            "Ele viveria para sempre",
+            "Ele teria uma grande fortuna",
+            "Ele seria o rei de Israel"
+        ],
+        "correta": "Ele teria muitos filhos",
+        "referencia": "Gênesis 15:5"
+    },
+    {
+        "pergunta": "Quem foi filho de Abraão e Sara?",
+        "alternativas": [
+            "Israel",
+            "Isaque",
+            "Jacó",
+            "Esaú"
+        ],
+        "correta": "Isaque",
+        "referencia": "Gênesis 21:3"
+    },
+    {
+        "pergunta": "Qual foi a prova da fé de Abraão?",
+        "alternativas": [
+            "Ele construiu um altar",
+            "Ele ofereceu Isaque como sacrifício",
+            "Ele deixou sua terra",
+            "Ele lutou contra reis"
+        ],
+        "correta": "Ele ofereceu Isaque como sacrifício",
+        "referencia": "Gênesis 22:2"
+    },
+    {
+        "pergunta": "Quem foi a esposa de Isaque?",
+        "alternativas": [
+            "Sara",
+            "Rebeca",
+            "Raquel",
+            "Miriam"
+        ],
+        "correta": "Rebeca",
+        "referencia": "Gênesis 24:67"
+    },
+    {
+        "pergunta": "Quantos filhos Jacó teve?",
+        "alternativas": [
+            "Dois",
+            "Seis",
+            "Doze",
+            "Quinze"
+        ],
+        "correta": "Doze",
+        "referencia": "Gênesis 35:22-26"
+    },
+    {
+        "pergunta": "Qual era o nome do filho favorito de Jacó?",
+        "alternativas": [
+            "Esaú",
+            "José",
+            "Benjamim",
+            "Judá"
+        ],
+        "correta": "José",
+        "referencia": "Gênesis 37:3"
+    },
+    {
+        "pergunta": "O que os irmãos de José fizeram com ele?",
+        "alternativas": [
+            "O venderam como escravo",
+            "O acolheram",
+            "O deixaram em casa",
+            "O ajudaram a fugir"
+        ],
+        "correta": "O venderam como escravo",
+        "referencia": "Gênesis 37:28"
+    },
+    {
+        "pergunta": "Para onde José foi vendido?",
+        "alternativas": [
+            "Ao Egito",
+            "À Babilônia",
+            "A Canaã",
+            "À Assíria"
+        ],
+        "correta": "Ao Egito",
+        "referencia": "Gênesis 37:36"
+    },
+    {
+        "pergunta": "Qual era a profissão de José no Egito?",
+        "alternativas": [
+            "Pastor",
+            "Governador",
+            "Carpinteiro",
+            "Pescador"
+        ],
+        "correta": "Governador",
+        "referencia": "Gênesis 41:46"
+    }
+]
