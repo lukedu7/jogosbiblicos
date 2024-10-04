@@ -1,0 +1,310 @@
+[
+    {
+        "pergunta": "Como Deus criou o homem, segundo Gênesis?",
+        "alternativas": [
+            "Do pó da terra.",
+            "Da água.",
+            "Da luz.",
+            "Da erva."
+        ],
+        "correta": "Do pó da terra.",
+        "referencia": "Gênesis 2:7"
+    },
+    {
+        "pergunta": "Qual era o nome do jardim onde Adão e Eva viviam?",
+        "alternativas": [
+            "Jardim do Éden.",
+            "Jardim das Oliveiras.",
+            "Jardim de Deus.",
+            "Jardim da Vida."
+        ],
+        "correta": "Jardim do Éden.",
+        "referencia": "Gênesis 2:8"
+    },
+    {
+        "pergunta": "O que Deus disse a Adão sobre o fruto da árvore do conhecimento?",
+        "alternativas": [
+            "Ele poderia comer de todos os frutos.",
+            "Ele não deveria tocar na árvore.",
+            "Ele não deveria comer do fruto.",
+            "Ele poderia comer apenas em dias de festa."
+        ],
+        "correta": "Ele não deveria comer do fruto.",
+        "referencia": "Gênesis 2:17"
+    },
+    {
+        "pergunta": "Qual foi a consequência do pecado de Adão e Eva?",
+        "alternativas": [
+            "Eles se tornaram ricos.",
+            "Eles foram abençoados.",
+            "Eles foram expulsos do Éden.",
+            "Eles ganharam sabedoria."
+        ],
+        "correta": "Eles foram expulsos do Éden.",
+        "referencia": "Gênesis 3:23"
+    },
+    {
+        "pergunta": "O que Caim ofereceu a Deus como sacrifício?",
+        "alternativas": [
+            "Frutos da terra.",
+            "Animais.",
+            "O melhor de suas colheitas.",
+            "O seu próprio sangue."
+        ],
+        "correta": "Frutos da terra.",
+        "referencia": "Gênesis 4:3"
+    },
+    {
+        "pergunta": "Qual foi a resposta de Deus ao sacrifício de Caim?",
+        "alternativas": [
+            "Ele aceitou.",
+            "Ele rejeitou.",
+            "Ele não se importou.",
+            "Ele pediu mais."
+        ],
+        "correta": "Ele rejeitou.",
+        "referencia": "Gênesis 4:5"
+    },
+    {
+        "pergunta": "Qual foi o sinal que Deus deu a Caim?",
+        "alternativas": [
+            "Um arco-íris.",
+            "Uma marca.",
+            "Uma pomba.",
+            "Uma estrela."
+        ],
+        "correta": "Uma marca.",
+        "referencia": "Gênesis 4:15"
+    },
+    {
+        "pergunta": "Quantos dias choveu durante o dilúvio?",
+        "alternativas": [
+            "40 dias e 40 noites.",
+            "30 dias e 30 noites.",
+            "50 dias e 50 noites.",
+            "20 dias e 20 noites."
+        ],
+        "correta": "40 dias e 40 noites.",
+        "referencia": "Gênesis 7:12"
+    },
+    {
+        "pergunta": "Qual era o nome do filho de Noé?",
+        "alternativas": [
+            "Caim.",
+            "Ham.",
+            "Ismael.",
+            "Esaú."
+        ],
+        "correta": "Ham.",
+        "referencia": "Gênesis 6:10"
+    },
+    {
+        "pergunta": "Depois do dilúvio, o que Deus prometeu a Noé?",
+        "alternativas": [
+            "Nunca mais destruir a terra com água.",
+            "Fazer Noé rei.",
+            "Dar a Noé uma nova arca.",
+            "Aumentar suas riquezas."
+        ],
+        "correta": "Nunca mais destruir a terra com água.",
+        "referencia": "Gênesis 9:11"
+    },
+    {
+        "pergunta": "Qual foi a intenção dos homens ao construir a Torre de Babel?",
+        "alternativas": [
+            "Fugir de Deus.",
+            "Fazer um nome para si mesmos.",
+            "Adorar a Deus.",
+            "Salvar a humanidade."
+        ],
+        "correta": "Fazer um nome para si mesmos.",
+        "referencia": "Gênesis 11:4"
+    },
+    {
+        "pergunta": "Como Deus confundiu a linguagem dos homens em Babel?",
+        "alternativas": [
+            "Mudando suas vozes.",
+            "Criando novas línguas.",
+            "Com um grande vento.",
+            "Com um terremoto."
+        ],
+        "correta": "Criando novas línguas.",
+        "referencia": "Gênesis 11:7"
+    },
+    {
+        "pergunta": "Quem foi o pai de Abraão?",
+        "alternativas": [
+            "Tara.",
+            "Nacor.",
+            "Ló.",
+            "Ismael."
+        ],
+        "correta": "Tara.",
+        "referencia": "Gênesis 11:26"
+    },
+    {
+        "pergunta": "Qual foi a promessa que Deus fez a Abraão?",
+        "alternativas": [
+            "Ele teria uma grande nação.",
+            "Ele seria rico.",
+            "Ele viveria para sempre.",
+            "Ele teria muitos amigos."
+        ],
+        "correta": "Ele teria uma grande nação.",
+        "referencia": "Gênesis 12:2"
+    },
+    {
+        "pergunta": "Qual era o nome do sobrinho de Abraão?",
+        "alternativas": [
+            "Isaque.",
+            "Ló.",
+            "Esaú.",
+            "Jacó."
+        ],
+        "correta": "Ló.",
+        "referencia": "Gênesis 12:5"
+    },
+    {
+        "pergunta": "O que aconteceu quando Abraão e Ló se separaram?",
+        "alternativas": [
+            "Ló escolheu a melhor terra.",
+            "Abraão ficou triste.",
+            "Eles nunca mais se viram.",
+            "Ló foi abençoado."
+        ],
+        "correta": "Ló escolheu a melhor terra.",
+        "referencia": "Gênesis 13:10"
+    },
+    {
+        "pergunta": "Qual era o nome da esposa de Isaque?",
+        "alternativas": [
+            "Rebeca.",
+            "Sara.",
+            "Raquel.",
+            "Miriam."
+        ],
+        "correta": "Rebeca.",
+        "referencia": "Gênesis 24:67"
+    },
+    {
+        "pergunta": "Quantos filhos teve Isaque?",
+        "alternativas": [
+            "Um.",
+            "Dois.",
+            "Três.",
+            "Quatro."
+        ],
+        "correta": "Dois.",
+        "referencia": "Gênesis 25:21"
+    },
+    {
+        "pergunta": "Qual era o nome dos filhos de Isaque?",
+        "alternativas": [
+            "Caim e Abel.",
+            "Esaú e Jacó.",
+            "José e Benjamim.",
+            "Ló e Ismael."
+        ],
+        "correta": "Esaú e Jacó.",
+        "referencia": "Gênesis 25:26"
+    },
+    {
+        "pergunta": "Qual foi o nome da mãe de Jacó?",
+        "alternativas": [
+            "Sara.",
+            "Rebeca.",
+            "Raquel.",
+            "Miriam."
+        ],
+        "correta": "Rebeca.",
+        "referencia": "Gênesis 25:28"
+    },
+    {
+        "pergunta": "Qual foi a maneira como Jacó obteve a bênção de seu pai?",
+        "alternativas": [
+            "Com honestidade.",
+            "Enganando seu pai.",
+            "Por meio de um sonho.",
+            "Através de um sacrifício."
+        ],
+        "correta": "Enganando seu pai.",
+        "referencia": "Gênesis 27:18-19"
+    },
+    {
+        "pergunta": "Quem foi o pai de José?",
+        "alternativas": [
+            "Isaque.",
+            "Abraão.",
+            "Jacó.",
+            "Ló."
+        ],
+        "correta": "Jacó.",
+        "referencia": "Gênesis 37:3"
+    },
+    {
+        "pergunta": "O que os irmãos de José fizeram com ele?",
+        "alternativas": [
+            "O venderam como escravo.",
+            "O acolheram.",
+            "O deixaram em casa.",
+            "O ajudaram a fugir."
+        ],
+        "correta": "O venderam como escravo.",
+        "referencia": "Gênesis 37:28"
+    },
+    {
+        "pergunta": "Qual era a profissão de José no Egito?",
+        "alternativas": [
+            "Pastor.",
+            "Governador.",
+            "Carpinteiro.",
+            "Pescador."
+        ],
+        "correta": "Governador.",
+        "referencia": "Gênesis 41:46"
+    },
+    {
+        "pergunta": "Qual era o sonho que José teve que o levou a ser invejado por seus irmãos?",
+        "alternativas": [
+            "Ele sonhou que era rei.",
+            "Ele sonhou que seus feixes de trigo se curvavam diante de um feixe maior.",
+            "Ele sonhou que voava.",
+            "Ele sonhou com a construção de uma torre."
+        ],
+        "correta": "Ele sonhou que seus feixes de trigo se curvavam diante de um feixe maior.",
+        "referencia": "Gênesis 37:7"
+    },
+    {
+        "pergunta": "Quem foi a esposa de Jacó que lhe deu filhos?",
+        "alternativas": [
+            "Raquel.",
+            "Rebeca.",
+            "Lea.",
+            "Sara."
+        ],
+        "correta": "Lea.",
+        "referencia": "Gênesis 29:32"
+    },
+    {
+        "pergunta": "Quantas tribos de Israel vieram de Jacó?",
+        "alternativas": [
+            "Doze.",
+            "Dez.",
+            "Quatorze.",
+            "Oito."
+        ],
+        "correta": "Doze.",
+        "referencia": "Gênesis 49:28"
+    },
+    {
+        "pergunta": "Qual foi a resposta de José quando seus irmãos vieram ao Egito em busca de alimento?",
+        "alternativas": [
+            "Ele os ignorou.",
+            "Ele os acusou de espias.",
+            "Ele os acolheu com alegria.",
+            "Ele os mandou embora."
+        ],
+        "correta": "Ele os acusou de espias.",
+        "referencia": "Gênesis 42:9"
+    }
+]
