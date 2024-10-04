@@ -1,0 +1,222 @@
+[
+    {
+        "pergunta": "Qual foi a ordem que Deus deu a Noé após o dilúvio?",
+        "alternativas": [
+            "Construa uma nova arca.",
+            "Seja fértil e multiplique-se.",
+            "Vá para a terra de Canaã.",
+            "Construa uma cidade."
+        ],
+        "correta": "Seja fértil e multiplique-se.",
+        "referencia": "Gênesis 9:1"
+    },
+    {
+        "pergunta": "Qual foi o nome do filho de Noé que viu a nudez de seu pai?",
+        "alternativas": [
+            "Sem.",
+            "Jafé.",
+            "Ham.",
+            "Ismael."
+        ],
+        "correta": "Ham.",
+        "referencia": "Gênesis 9:22"
+    },
+    {
+        "pergunta": "Qual foi o motivo da ira de Deus que levou ao dilúvio?",
+        "alternativas": [
+            "A construção da Torre de Babel.",
+            "A maldade dos homens.",
+            "A desobediência de Noé.",
+            "A fome na terra."
+        ],
+        "correta": "A maldade dos homens.",
+        "referencia": "Gênesis 6:5"
+    },
+    {
+        "pergunta": "O que Deus fez para evitar que a humanidade falasse a mesma língua?",
+        "alternativas": [
+            "Destruiu a Torre de Babel.",
+            "Mudou suas línguas.",
+            "Mandou um dilúvio.",
+            "Criou novas nações."
+        ],
+        "correta": "Mudou suas línguas.",
+        "referencia": "Gênesis 11:7"
+    },
+    {
+        "pergunta": "Qual era o nome da cidade que Abraão e Ló separaram?",
+        "alternativas": [
+            "Babel.",
+            "Sodoma.",
+            "Gomorra.",
+            "Harã."
+        ],
+        "correta": "Sodoma.",
+        "referencia": "Gênesis 13:10"
+    },
+    {
+        "pergunta": "Qual foi a condição que Deus deu a Abraão sobre a circuncisão?",
+        "alternativas": [
+            "Era um sinal de aliança.",
+            "Era uma exigência para entrar em Canaã.",
+            "Era uma prática cultural.",
+            "Era um sacrifício a ser feito."
+        ],
+        "correta": "Era um sinal de aliança.",
+        "referencia": "Gênesis 17:10"
+    },
+    {
+        "pergunta": "Qual era a relação entre Ismael e Isaque?",
+        "alternativas": [
+            "Irmãos.",
+            "Primos.",
+            "Sobrinho e tio.",
+            "Amigos."
+        ],
+        "correta": "Irmãos.",
+        "referencia": "Gênesis 16:15"
+    },
+    {
+        "pergunta": "Quem foi a mulher que deu à luz a Ismael?",
+        "alternativas": [
+            "Sara.",
+            "Rebeca.",
+            "Hagar.",
+            "Raquel."
+        ],
+        "correta": "Hagar.",
+        "referencia": "Gênesis 16:4"
+    },
+    {
+        "pergunta": "O que Deus pediu a Abraão que fizesse com Isaque?",
+        "alternativas": [
+            "O oferecesse como sacrifício.",
+            "O enviasse para longe.",
+            "O ensinasse a pescar.",
+            "O levasse para a guerra."
+        ],
+        "correta": "O oferecesse como sacrifício.",
+        "referencia": "Gênesis 22:2"
+    },
+    {
+        "pergunta": "Qual foi a resposta de Isaque quando Abraão disse que iam oferecer um sacrifício?",
+        "alternativas": [
+            "Onde está o cordeiro?",
+            "Estou com medo.",
+            "Não quero ir.",
+            "Vou sozinho."
+        ],
+        "correta": "Onde está o cordeiro?",
+        "referencia": "Gênesis 22:7"
+    },
+    {
+        "pergunta": "Quem foi a esposa de Jacó que não podia ter filhos inicialmente?",
+        "alternativas": [
+            "Lea.",
+            "Raquel.",
+            "Rebeca.",
+            "Miriam."
+        ],
+        "correta": "Raquel.",
+        "referencia": "Gênesis 29:31"
+    },
+    {
+        "pergunta": "Qual foi o nome do filho que Raquel deu a Jacó?",
+        "alternativas": [
+            "Efraim.",
+            "Benjamim.",
+            "José.",
+            "Judá."
+        ],
+        "correta": "José.",
+        "referencia": "Gênesis 30:24"
+    },
+    {
+        "pergunta": "Qual era o nome da terra onde Jacó viveu após fugir de Esaú?",
+        "alternativas": [
+            "Canaã.",
+            "Harã.",
+            "Egito.",
+            "Babel."
+        ],
+        "correta": "Harã.",
+        "referencia": "Gênesis 28:2"
+    },
+    {
+        "pergunta": "Qual foi o sonho que Jacó teve enquanto estava em Harã?",
+        "alternativas": [
+            "Uma escada que ligava a terra ao céu.",
+            "Um anjo descendo.",
+            "Um sol brilhante.",
+            "Um cordeiro."
+        ],
+        "correta": "Uma escada que ligava a terra ao céu.",
+        "referencia": "Gênesis 28:12"
+    },
+    {
+        "pergunta": "Qual era o nome da cidade onde José foi vendido como escravo?",
+        "alternativas": [
+            "Canaã.",
+            "Sodoma.",
+            "Egito.",
+            "Gomorra."
+        ],
+        "correta": "Egito.",
+        "referencia": "Gênesis 37:36"
+    },
+    {
+        "pergunta": "Qual foi a interpretação do sonho de Faraó dada por José?",
+        "alternativas": [
+            "Sete anos de fartura seguidos de sete anos de fome.",
+            "Uma guerra.",
+            "Uma seca.",
+            "Uma colheita abundante."
+        ],
+        "correta": "Sete anos de fartura seguidos de sete anos de fome.",
+        "referencia": "Gênesis 41:30"
+    },
+    {
+        "pergunta": "O que José fez para ajudar o Egito durante a fome?",
+        "alternativas": [
+            "Vendeu grãos.",
+            "Construiu armazéns.",
+            "Deu tudo de graça.",
+            "Fugiu para Canaã."
+        ],
+        "correta": "Vendeu grãos.",
+        "referencia": "Gênesis 41:56"
+    },
+    {
+        "pergunta": "Como José se revelou a seus irmãos?",
+        "alternativas": [
+            "Com raiva.",
+            "Com alegria.",
+            "Com lágrimas.",
+            "Com indiferença."
+        ],
+        "correta": "Com lágrimas.",
+        "referencia": "Gênesis 45:1-2"
+    },
+    {
+        "pergunta": "Qual foi a resposta de Jacó ao saber que José ainda estava vivo?",
+        "alternativas": [
+            "Ele ficou triste.",
+            "Ele não acreditou.",
+            "Ele ficou emocionado.",
+            "Ele se alegrou."
+        ],
+        "correta": "Ele não acreditou.",
+        "referencia": "Gênesis 45:26"
+    },
+    {
+        "pergunta": "Quantos anos José viveu no Egito?",
+        "alternativas": [
+            "70 anos.",
+            "80 anos.",
+            "110 anos.",
+            "100 anos."
+        ],
+        "correta": "110 anos.",
+        "referencia": "Gênesis 50:26"
+    }
+]
